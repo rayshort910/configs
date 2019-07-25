@@ -1,0 +1,17 @@
+[alias]
+    ad = add -i
+    br = branch
+    cb = checkout -b
+    ci = commit
+    co = checkout
+    df = diff
+    ft = fetch
+    hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+    lg = log --decorate
+    rt = remote
+    st = status
+    up = pull upstream master
+
+[user]
+	email = rayshort910@gmail.com
+	name = Ray Short
