@@ -16,3 +16,5 @@
 [user]
 	email = rayshort910@gmail.com
 	name = Ray Short
+[push]
+	default = current
